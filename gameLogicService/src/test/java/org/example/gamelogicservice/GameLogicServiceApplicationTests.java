@@ -1,0 +1,13 @@
+package org.example.gamelogicservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class GameLogicServiceApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

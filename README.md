@@ -29,7 +29,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/warfare-java-server.git
+    
     cd warfare-java-server
     ```
 
